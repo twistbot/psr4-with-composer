@@ -2,6 +2,8 @@
 
 namespace MyApp\Tests\Http;
 
+use MyApp\Http\Request;
+
 class RequestTest extends \PHPUnit_Framework_TestCase
 {
     /**
